@@ -1,0 +1,40 @@
+{
+		"product": [
+			{
+				"id": "norm0",
+				"name": "Парикмахерское кресло «Норм» гидравлическое",
+				"img": "http://dev-wbooster.ru/test_task/img/img-1.png",
+				"price": "9900"
+			},
+			{
+				"id": "norm1",
+				"name": "Парикмахерское кресло «Норм» гидравлическое",
+				"img": "http://dev-wbooster.ru/test_task/img/img-1.png",
+				"price": "9900"
+			},
+			{
+				"id": "norm2",
+				"name": "Парикмахерское кресло «Норм» гидравлическое",
+				"img": "http://dev-wbooster.ru/test_task/img/img-1.png",
+				"price": "9900"
+			},
+			{
+				"id": "norm3",
+				"name": "Парикмахерское кресло «Норм» гидравлическое",
+				"img": "http://dev-wbooster.ru/test_task/img/img-1.png",
+				"price": "9900"
+			},
+			{
+				"id": "norm4",
+				"name": "Парикмахерское кресло «Норм» гидравлическое",
+				"img": "http://dev-wbooster.ru/test_task/img/img-1.png",
+				"price": "9900"
+			},
+			{
+				"id": "norm5",
+				"name": "Парикмахерское кресло «Норм» гидравлическое",
+				"img": "http://dev-wbooster.ru/test_task/img/img-1.png",
+				"price": "9900"
+			}
+		]
+	}
